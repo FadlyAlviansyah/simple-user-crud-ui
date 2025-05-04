@@ -50,7 +50,8 @@ Ensure your Laravel API supports the following routes:
 
 ## 📸 Screenshot
 
-![screenshot](https://dummyimage.com/800x400/ddd/000&text=User+Management+UI)
+![image](https://github.com/user-attachments/assets/721b58e6-b0fc-4db0-9ad1-df12a3145a25)
+
 
 ## 📃 License
 
